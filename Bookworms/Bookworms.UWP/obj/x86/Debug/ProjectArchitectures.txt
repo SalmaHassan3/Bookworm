@@ -1,0 +1,2 @@
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms.UWP\Bookworms.UWP.csproj;x86
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\Bookworms.csproj;neutral

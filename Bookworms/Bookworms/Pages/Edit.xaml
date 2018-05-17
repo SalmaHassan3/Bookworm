@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bookworms.Pages.Edit">
+
+
+  <StackLayout Orientation="Vertical" Padding="10,50,10,5">
+    <Label  Text="NAME:" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+    <Entry   x:Name="n" Text="{Binding name}"  FontSize="15" BackgroundColor="White"/>
+    <Label  Text="AUTHOR:" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+    <Entry x:Name="a" Text="{Binding author}"  FontSize="15" BackgroundColor="White"/>
+    <Label  Text="READ/CURRENTLY READING/TO READ" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+    <Entry  x:Name="s" Text="{Binding state}" FontSize="15" BackgroundColor="White"/>
+    <Button x:Name="done" Text="done" HorizontalOptions="Center" TextColor="#696969" />
+  </StackLayout>
+</ContentPage>

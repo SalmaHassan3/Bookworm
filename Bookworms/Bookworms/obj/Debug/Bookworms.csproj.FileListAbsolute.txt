@@ -1,0 +1,73 @@
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Bookworms.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Bookworms.pdb
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\obj\Debug\Bookworms.csprojResolveAssemblyReference.cache
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\obj\Debug\Bookworms.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\obj\Debug\Bookworms.pdb
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\obj\Debug\Bookworms.Pages.Login.xaml.g.cs
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\obj\Debug\Bookworms.Pages.Register.xaml.g.cs
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\obj\Debug\Bookworms.Pages.MainPage.xaml.g.cs
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Bookworms.dll.config
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\System.Net.Http.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\System.Net.Http.xml
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\obj\Debug\Bookworms.csproj.App.config
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\obj\Debug\Bookworms.dll.mdb
+C:\Users\nr\Desktop\Bookworms\Bookworms\Bookworms\bin\Debug\Bookworms.dll.mdb
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Bookworms.dll.config
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Bookworms.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Bookworms.pdb
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\SQLite-net.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\System.Net.Http.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\SQLite-net.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\System.Net.Http.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.csproj.App.config
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.csprojResolveAssemblyReference.cache
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.Pages.Login.xaml.g.cs
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.Pages.Register.xaml.g.cs
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.Pages.MainPage.xaml.g.cs
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.dll
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.pdb
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.Pages.Edit.xaml.g.cs
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\obj\Debug\Bookworms.dll.mdb
+C:\Users\nr\Desktop\Bookworms - Copy - Copy\Bookworms\Bookworms\bin\Debug\Bookworms.dll.mdb

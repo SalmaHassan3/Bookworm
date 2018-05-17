@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bookworms.Pages.Login" BackgroundColor="#ADD8E6">
+  <StackLayout Padding="20" >
+
+    <BoxView HorizontalOptions="FillAndExpand" HeightRequest="25"
+          VerticalOptions="Start" />
+    <Image IsVisible="true" HeightRequest="230" WidthRequest="230">
+      <Image.Source>
+        <OnPlatform x:TypeArguments="ImageSource">
+          <OnPlatform.Android>
+            <FileImageSource File="books.png"/>
+          </OnPlatform.Android>
+        </OnPlatform>
+      </Image.Source>
+    </Image>
+    <Label x:Name="logo" Text="Bookworm"  TextColor="#191970" FontSize="35" VerticalOptions="Center" HorizontalOptions="Center"  />
+    <BoxView HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+    <StackLayout Orientation="Horizontal" Padding="10,5,10,5"  >
+
+      <Label x:Name="usrname" Text="E-mail"  WidthRequest="115" VerticalOptions="Start" HorizontalOptions="Start" TextColor="#696969" FontSize="20"/>
+      <Entry  x:Name="enteru" Placeholder="Enter e-mail" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="White"/>
+    </StackLayout>
+    <StackLayout Orientation="Horizontal" Padding="10,5,10,5" >
+      <Label x:Name="password" Text="Password" WidthRequest="115" VerticalOptions="Start" HorizontalOptions="Start" TextColor="#696969" FontSize="20"/>
+      <Entry  x:Name="enterp" Placeholder="Enter password" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="White"/>
+    </StackLayout>
+    <Button x:Name="enter" Text="Login" HorizontalOptions="Center" TextColor="#696969" />
+    <StackLayout Orientation="Horizontal">
+      <Label x:Name="noaccount" Text="Don't have an account?" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+      <Button x:Name="register" Text="Sign Up" TextColor="#696969"/>
+    </StackLayout>
+
+  </StackLayout>
+</ContentPage>

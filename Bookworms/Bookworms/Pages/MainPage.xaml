@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bookworms.Pages.MainPage">
+
+
+  <ContentPage Title="Home" BackgroundColor="#F5F5F5">
+    <ContentPage.Content>
+      <StackLayout Orientation="Vertical">
+        <StackLayout Orientation="Horizontal" Padding="10,5,10,0" >
+          <Label x:Name="firstname" Text="Mary" TextColor="#696969" VerticalOptions="Center" FontSize="30"/>
+          <Label  Text=" " TextColor="#696969" VerticalOptions="Center" FontSize="20"/>
+          <Label x:Name="lastname" Text="Maxon" TextColor="#696969" VerticalOptions="Center" FontSize="30" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Padding="10,0,10,5" >
+          <Label  Text="8" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+          <Label  Text="/" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+          <Label Text="7" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+          <Label Text="/" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+          <Label  Text="1992" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Padding="10,5,10,5" >
+          <Label x:Name="bio"
+    Text="“The more that you read,the more things you will know. The more that you learn,the more places you'll go.”"
+          TextColor="#696969" VerticalOptions="Center" FontSize="20" />
+        </StackLayout>
+        <BoxView HorizontalOptions="FillAndExpand" HeightRequest="100"/>
+        <StackLayout Orientation="Vertical" Padding="10,5,10,5">
+          <Label Text="ADD A NEW BOOK" TextColor="#696969" VerticalOptions="Center" FontSize="25" />
+          <Label  Text="NAME:" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+          <Entry x:Name="n" Text="{Binding name}" FontSize="15" BackgroundColor="White"/>
+          <Label  Text="AUTHOR:" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+          <Entry x:Name="a" Text="{Binding author}"  FontSize="15" BackgroundColor="White"/>
+          <Label  Text="READ/CURRENTLY READING/TO READ" TextColor="#696969" VerticalOptions="Center" FontSize="15" />
+          <Entry x:Name="s"  Text="{Binding state}" FontSize="15" BackgroundColor="White"/>
+          <Button x:Name="add" Text="add" HorizontalOptions="Center" TextColor="#696969" />
+        </StackLayout>
+      </StackLayout>
+    </ContentPage.Content>
+  </ContentPage>
+
+
+  <ContentPage Title="My Books" >
+    <ContentPage.Content>
+      <ScrollView>
+        <StackLayout>
+          <StackLayout Orientation="Horizontal" Padding="5,10,5,10" BackgroundColor="White">
+            <Label Text="SELECT TO:" TextColor="#696969" FontSize="30" VerticalOptions="Center"/>
+            <Button x:Name="edit" Text="edit" HorizontalOptions="EndAndExpand" IsEnabled="False" />
+            <Button x:Name="delete" Text="delete" HorizontalOptions="EndAndExpand" IsEnabled="False"/>
+          </StackLayout>
+          <ListView x:Name="booklist"
+                    HorizontalOptions="FillAndExpand"
+                    BackgroundColor="#F5F5F5"
+                    VerticalOptions="FillAndExpand"
+                    HasUnevenRows="True">
+            <ListView.ItemTemplate>
+              <DataTemplate>
+                <ViewCell>
+                  <StackLayout Orientation="Vertical" Padding="20,10,20,10">
+                    <StackLayout Orientation="Horizontal">
+                      <Label Text="{Binding name}"  Font="Bold" FontSize="20"/>
+                      <Label Text="{Binding state}" HorizontalOptions="EndAndExpand" Font="Bold"/>
+                    </StackLayout>
+                    <Label Text="{Binding author}" />
+                  </StackLayout>
+                </ViewCell>
+              </DataTemplate>
+            </ListView.ItemTemplate>
+          </ListView>
+        </StackLayout>
+      </ScrollView>
+    </ContentPage.Content>
+  </ContentPage>
+
+
+
+  <ContentPage Title="Logout" BackgroundColor="#F5F5F5" >
+    <ContentPage.Content>
+      <StackLayout  VerticalOptions="Center">
+        <Button x:name="out"  Text="logout" FontSize="20" Font="Bold"  HorizontalOptions="Center" />
+      </StackLayout>
+    </ContentPage.Content>
+  </ContentPage>
+</TabbedPage>

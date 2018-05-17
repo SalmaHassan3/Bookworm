@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bookworms.Pages.Register" BackgroundColor="#ADD8E6" >
+  <StackLayout>
+    <BoxView HorizontalOptions="FillAndExpand" HeightRequest="100"
+         VerticalOptions="Start" />
+    <Label x:Name="logo" Text="Bookworm" TextColor="#191970" FontSize="35" VerticalOptions="Center" HorizontalOptions="Center"/>
+    <BoxView HorizontalOptions="FillAndExpand" HeightRequest="50"/>
+    <StackLayout Orientation="Horizontal" Padding="10,5,10,5" >
+      <Label x:Name="name1" Text="First Name" TextColor="#696969" FontSize="20" VerticalOptions="Start" HorizontalOptions="Start" WidthRequest="115"/>
+      <Entry  x:Name="enter1" Placeholder="Enter first name"   VerticalOptions="Start" BackgroundColor="White" />
+      <Label x:Name="name2" Text="last name"  WidthRequest="90" TextColor="#696969" FontSize="20" VerticalOptions="Start" />
+      <Entry  x:Name="enter2" Placeholder="Enter last name" VerticalOptions="Start"  BackgroundColor="White"/>
+    </StackLayout>
+    <StackLayout Orientation="Horizontal" Padding="10,5,10,5" >
+      <Label x:Name="email" Text="E-mail" TextColor="#696969" FontSize="20" VerticalOptions="Start" HorizontalOptions="Start" WidthRequest="115"/>
+      <Entry  x:Name="entere" Placeholder="Enter a valid E-mail" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="White"/>
+    </StackLayout>
+    <StackLayout Orientation="Horizontal" Padding="10,5,10,5" >
+      <Label x:Name="pass" Text="Password" TextColor="#696969" FontSize="20" VerticalOptions="Start" HorizontalOptions="Start" WidthRequest="115"/>
+      <Entry  x:Name="enterpass" Placeholder="Enter password" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="White"/>
+    </StackLayout>
+    <StackLayout Orientation="Horizontal" Padding="10,5,10,5" >
+      <Label x:Name="bio" Text="Bio" TextColor="#696969" FontSize="20" VerticalOptions="Start" HorizontalOptions="Start" WidthRequest="115"/>
+      <Entry  x:Name="enterb" Placeholder="Tell us about yourself" BackgroundColor="White" VerticalOptions="Start" HeightRequest="115" HorizontalOptions="FillAndExpand" />
+    </StackLayout>
+    <StackLayout Orientation="Horizontal" Padding="10,5,10,5">
+      <Label x:Name="date" TextColor="#696969" FontSize="20" Text="Date of birth"  VerticalOptions="Start" HorizontalOptions="Start" WidthRequest="115"/>
+      <Entry  x:Name="enterd" Placeholder="DD" VerticalOptions="Start" BackgroundColor="White" />
+      <Label  Text="/" FontSize="20" TextColor="#696969"  VerticalOptions="Center" />
+      <Entry  x:Name="enterm" TextColor="#696969" Placeholder="MM"  VerticalOptions="Start" BackgroundColor="White" />
+      <Label  Text="/"  FontSize="20" TextColor="#696969" VerticalOptions="Center" />
+      <Entry  x:Name="entery"  TextColor="#696969" Placeholder="YYYY"  VerticalOptions="Start" BackgroundColor="White"/>
+    </StackLayout>
+    <Button x:name="signup" Text="Sign up" HorizontalOptions="Center" TextColor="#696969" />
+  </StackLayout>
+</ContentPage>
